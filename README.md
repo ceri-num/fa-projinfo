@@ -2,9 +2,9 @@
 
 Module de Projet Informatique autour du langage C.
 
-**Publique**: Informaticien en formation par apprentissage, en tous début de formation (phase d'harmonisation).
+**Publique**: Informaticien en formation par apprentissage, en tout début de formation (phase d'harmonisation).
 
-**Volume Horaires**: $12 \times 1h30$ soit $18h$ - Octobre novembre.
+**Volume horaire**: $12 \times 1h30$ soit $18h$ - octobre/novembre.
 
 **Objectif**: prendre en main un projet d'informatique pour:
 
