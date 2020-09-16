@@ -12,6 +12,8 @@ Module de Projet Informatique autour du langage C.
 - S'exercer à travailler en groupe.
 - Toucher du doit la conduite de projet.
 
+---
+
 ## Ce support
 
 Support publié sur gitbook via github.
