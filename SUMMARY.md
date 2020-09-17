@@ -1,5 +1,9 @@
 # Outline
 
+
+* [Introduction](README.md)             <!--Guillaume-->
+* [Summary](SUMMARY.md)             <!--Guillaume-->
+
 ## S1 - KickOff
 
 * [KickOff](kick-off/intro.md)             <!--Guillaume-->

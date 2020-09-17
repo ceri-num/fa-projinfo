@@ -1,14 +1,9 @@
 ---
-marp: true
-author: GuillaumeLozenguez
+marp: false
+author: Guillaume Lozenguez
 ---
 
 # Projet Informatique - Harmonisation
-
-[[Presentation](README.pdf)]
-
-
-[[Presentation](README-slide.html)]
 
 Module de Projet Informatique autour du langage C.
 
@@ -30,4 +25,3 @@ Support publié sur gitbook via github.
 
 - On gitbook: https://ceri-num.gitbook.io/fa-projinfo
 - On GitHub: https://github.com/ceri-num/fa-projinfo
-
