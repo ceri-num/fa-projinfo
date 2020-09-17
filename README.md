@@ -7,6 +7,9 @@ author: GuillaumeLozenguez
 
 [[Presentation](README.pdf)]
 
+
+[[Presentation](README-slide.html)]
+
 Module de Projet Informatique autour du langage C.
 
 **Publique**: Informaticien en formation par apprentissage, en début de formation (phase d'harmonisation).
