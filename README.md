@@ -5,7 +5,7 @@ author: GuillaumeLozenguez
 
 # Projet Informatique - Harmonisation
 
-[[Presentation](README-slide.html)]
+[[Presentation](README.pdf)]
 
 Module de Projet Informatique autour du langage C.
 
