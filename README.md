@@ -1,11 +1,6 @@
----
-marp: false
-author: Guillaume Lozenguez
----
-
 # Projet Informatique - Harmonisation
 
-Module de Projet Informatique autour du langage C.
+Module de Projet Informatique autour du langage C et du Jeu-Vidéo.
 
 **Publique**: Informaticien en formation par apprentissage, en début de formation (phase d'harmonisation).
 
