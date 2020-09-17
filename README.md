@@ -1,3 +1,8 @@
+---
+marp: true
+author: GuillaumeLozenguez
+---
+
 # Projet Informatique - Harmonisation
 
 Module de Projet Informatique autour du langage C.
