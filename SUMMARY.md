@@ -6,7 +6,9 @@
 ## S1 - KickOff                              <!--Guillaume-->
 
 * [NetWorld](kick-off/intro.md)
-* [C et Raylib](kick-off/raylib.md)  
+* [C et Raylib](kick-off/intro-c.md)
+* [C et Raylib](kick-off/rappel-c.md)
+* [C et Raylib](kick-off/raylib.md)
 * [Projet Agile](kick-off/agile.md)
 * [Les groupes](kick-off/groups.md)
 * [Les outils](kick-off/tools.md)
