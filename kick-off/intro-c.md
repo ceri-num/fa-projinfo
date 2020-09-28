@@ -59,7 +59,9 @@ instruction;
 instruction;
 ...
 ```
- 
+
+---
+
 ### Main differences in C++
 
 Addition | Limit
