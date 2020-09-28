@@ -9,7 +9,7 @@
 * [Intro to C](kick-off/intro-c.md)
 * [C in short](kick-off/rappel-c.md)
 * [Lib: Raylib](kick-off/raylib.md)
-* [Projet Agile](kick-off/agile.md)
+* [Projet NetWorld](kick-off/agile.md)
 * [Les groupes](kick-off/groups.md)
 * [Les outils](kick-off/tools.md)
 * [Programmer en C](kick-off/helloc.md)

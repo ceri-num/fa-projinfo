@@ -67,3 +67,4 @@ Addition | Limit
 **+** Notions of POO             | **-** Not supported on all hardware architectures
 **+** Templates and STL          | **-** Not the same strictness as other object languages
 **+** Still close to the machine | **-** Different behaviors fct(compiler, architectures)
+
