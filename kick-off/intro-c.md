@@ -48,7 +48,7 @@ Sources : \url{https://fr.wikipedia.org/} - \url{https://en.wikipedia.org/}
 
 Close to the machine, more or less expressive
 
-![](resources/ccpp.pdf)
+![](resources/ccpp.svg)
 
 An imperative programming language:
 
@@ -60,11 +60,10 @@ instruction;
 ...
 ```
  
-Main differences with C++
+### Main differences in C++
 
 Addition | Limit
 ---------|--------
-[$+$] Notions of POO             | [$-$] Not supported on all hardware architectures
-[$+$] Templates and STL          | [$-$] Not the same strictness as other object languages
-[$+$] Still close to the machine | [$-$] Different behaviors fct(compiler, architectures)
-
+**+** Notions of POO             | **-** Not supported on all hardware architectures
+**+** Templates and STL          | **-** Not the same strictness as other object languages
+**+** Still close to the machine | **-** Different behaviors fct(compiler, architectures)
