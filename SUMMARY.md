@@ -9,9 +9,8 @@
 * [Intro to C](kick-off/intro-c.md)
 * [C in short](kick-off/rappel-c.md)
 * [Lib: Raylib](kick-off/raylib.md)
-* [Projet NetWorld](kick-off/agile.md)
 * [Les groupes](kick-off/groups.md)
-* [Les outils](kick-off/tools.md)
+* [Go go go!](kick-off/start-point.md)
 
 ## S2 - Introduction to Game Engine
 

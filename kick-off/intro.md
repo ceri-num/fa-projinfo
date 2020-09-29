@@ -7,8 +7,8 @@ La particularité du projet est de modéliser le monde comme un réseau de posit
 
 Le developpement de NetWorld s'articule autour de 4 fonctionnalité pricipal:
 
-- **Cadrage du project**: (Une fonctionnalité pour les controler toutes). Cette fonctionnalité couvre essenciellement la mise en place des outil utile à l'équipe de développement. Cést une meta-fonctionnalité ou une fonctionnalité support.
-- **NetWorld, le monde vue comme un réseau**: NetWorld est un peut l'élément central de la librairie.
-- **Les entités évoluant dans Networld**: Un monde n'est rien sans une peuplade. La particularité de ce composant de la lib. réside dans le fait que les entités sont en interactions.
-- **interface utilisateur**: Ce composant logiciel focalise sur le rendu graphique et la mise en place de controle pour le joueur humain.
+1. **Cadrage du project**: (Une fonctionnalité pour les controler toutes). Cette fonctionnalité couvre essenciellement la mise en place des outil utile à l'équipe de développement. Cést une meta-fonctionnalité ou une fonctionnalité support.
+1. **NetWorld, le monde vue comme un réseau**: NetWorld est un peut l'élément central de la librairie.
+1. **Les entités évoluant dans Networld**: Un monde n'est rien sans une peuplade. La particularité de ce composant de la lib. réside dans le fait que les entités sont en interactions.
+1. **interface utilisateur**: Ce composant logiciel focalise sur le rendu graphique et la mise en place de controle pour le joueur humain.
 
