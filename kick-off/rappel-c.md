@@ -1,12 +1,14 @@
+---
+marp: false
+---
+
 # C in short:
 
 ## First C program
 
 ### Hello, world: On the internet...
 
-- Wikipedia : https://en.wikipedia.org/wiki/C\_\%28programming\_language\%29\#.22Hello.2C\_world.22\_example
-- Zentut : http://www.zentut.com/c-tutorial/c-hello-world/
-- Stackoverflow : http://stackoverflow.com/questions/12355758/proper-hello-world-in-c\#12355759
+[Wikipedia](https://en.wikipedia.org/wiki/C\_\%28programming\_language\%29\#.22Hello.2C\_world.22\_example) - [Zentut](http://www.zentut.com/c-tutorial/c-hello-world/) - [Stackoverflow](http://stackoverflow.com/questions/12355758/proper-hello-world-in-c\#12355759)
 
 ---
 
@@ -332,5 +334,3 @@ double modulus( Complex c ){
   return sqrt( c.a*c.a + c.b*c.b );
 }
 ```
-
----

@@ -16,11 +16,7 @@
     * It is the first (natively)
     * Today: GNU project C and C++ Compiler
 
-Source : \url{https://en.wikipedia.org} -\url{https://fr.wikipedia.org}
-
----
-
-### Norm of C
+### Norm o C
 
 - [**1983**] group creation part of ANSI
     * American National Standards Institute
