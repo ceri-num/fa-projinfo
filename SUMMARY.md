@@ -16,12 +16,12 @@
 
 ## S2 - Introduction to Game Engine
 
-* What is a game and a game engine ?
-* Star-Up & Shut-Down
-* The Game/Main Loop
-* Programming Input Devices
-* Resources managment
-* Collision and simple physics
+* [What is a game and a game engine ?](game-engine/game.md)
+* [Star-Up & Shut-Down](game-engine/init.md)
+* [The Game/Main Loop](game-engine/loop.md)
+* [Programming Input Devices](game-engine/input.md)
+* [Resources managment](game-engine/rsc.md)
+* [Collision and simple physics](game-engine/collision.md)
 * [Challenge Kick-off](game-engine/intro.md)
 
 ## S3 - Collaborative Project
