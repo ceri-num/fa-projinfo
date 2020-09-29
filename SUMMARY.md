@@ -22,6 +22,7 @@
 * [Programming Input Devices](game-engine/input.md)
 * [Resources managment](game-engine/rsc.md)
 * [Collision and simple physics](game-engine/collision.md)
+* [PNJ and AI](game-engine/ai.md)
 * [Challenge Kick-off](game-engine/intro.md)
 
 ## S3 - Collaborative Project
