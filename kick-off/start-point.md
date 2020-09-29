@@ -1,16 +1,7 @@
-# Tools
+# Point de départ
 
-# Programmer
-
-- Editeur de text: **VisualStudioCode**.
-- Compilation: **make ?**
-
-# Versionner - Partager
-
-- Outil de version distribué: git et 
-- Serveur de mise en commun: gitlab
-- Partager un espace de travail: VSC Live Share
-
-# Communiquer
-
-- Salon de discution et de Visio Discord
+Ya plus qu'à:
+  
+- cloner la version *0.0.0.0.0.1* de *NetWorld* sur le [gilab](https://gvipers.imt-lille-douai.fr/fatus/networld) de l'école
+- compiler le projet.
+- commencer à jouer avec les exemples de *Raylib*.
