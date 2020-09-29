@@ -12,7 +12,6 @@
 * [Projet NetWorld](kick-off/agile.md)
 * [Les groupes](kick-off/groups.md)
 * [Les outils](kick-off/tools.md)
-* [Programmer en C](kick-off/helloc.md)
 
 ## S2 - Introduction to Game Engine
 
