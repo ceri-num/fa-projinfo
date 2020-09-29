@@ -1,43 +1,5 @@
 # C in short:
 
-## Online resources
-
-### Understand with Wikipedia :
-
-* C (langage) : [C - fr](https://fr.wikipedia.org/wiki/C\_\%28langage\%29) - [C en](https://en.wikipedia.org/wiki/C\_\%28programming\_language\%29)
-* C++ : [C++ - fr](https://fr.wikipedia.org/wiki/C\%2B\%2B)
-* Programmation impérative : [Programmation impérative](https://fr.wikipedia.org/wiki/Programmation\_imp\%C3\%A9rative)
-* GCC : [GNU Compiler Collection](https://fr.wikipedia.org/wiki/GNU_Compiler_Collection)
-* ...
-
-### Courses, tutorials, forums :
-* [c-faq.com](http://www.c-faq.com/)
-* [zentut.com - c-tutorial](http://www.zentut.com/c-tutorial/)
-* [cplusplus.com](http://www.cplusplus.com/)
-* [developpez.com C](http://c.developpez.com) et [C++](http://cpp.developpez.com/)
-* [stackoverflow.com](http://stackoverflow.com)
-* ...
-
----
-
-###  Tools :
-
-- GNU_Compiler_Collection
-  * Windows: Minimalist GNU for Windows (with GCC) : [MinGW](http://mingw.org/)
-- IDE (Integrated Development Environment) Dédié
-  * OS independent : [codeblocks](http://www.codeblocks.org/)
-  * IDE Linux : [kdevelop](https://www.kdevelop.org/)
-  * IDE Windows : [Visual-Studio](http://www.microsoft.com/france/visual-studio/)
-- IDE Générique
-  * **Visual Studio Code** 
-  * ATOM
-  * ...
-- Debugger:
-  * Build Automation: Make, CMake 
-  * Debugger: GNU Debugger [GDB](https://www.gnu.org/software/gdb/) ([possible UI](https://www.gdbgui.com/))
-  * Automatic test: Answer on [stackoverflow](https://stackoverflow.com/questions/65820/unit-testing-c-code#65845)
-
----
 ## First C program
 
 ### Hello, world: On the internet...
@@ -51,9 +13,9 @@
 ### Hello, world
 
 - Create a new work directory (on P)
-- Edit a text file \emph{hello.c} (SourceCode/notepad++)
+- Edit a text file *hello.c* (SourceCode/notepad++)
 
-```c\
+```c
 #include <stdio.h>
 
 int main()
@@ -156,8 +118,6 @@ sleep(3); // Sleep(3000) under Windows
 ---
 
 ### Basic types
-
-\begin{frame}{Les types basics}
 
 - *int*: standard integer
 - *unsigned int*: unsigned integer (~ absolut value)

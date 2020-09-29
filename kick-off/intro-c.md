@@ -36,7 +36,7 @@ Source : \url{https://en.wikipedia.org} -\url{https://fr.wikipedia.org}
 ### C++ norm evolves in parallel:
 - C++98, C++03, C++11 (et C++14)
 
-Sources : \url{https://fr.wikipedia.org/} - \url{https://en.wikipedia.org/}
+Sources : [fr.wikipedia.org](https://fr.wikipedia.org/) - [en.wikipedia.org](https://en.wikipedia.org/)
 
 ---
 
@@ -70,3 +70,43 @@ Addition | Limit
 **+** Templates and STL          | **-** Not the same strictness as other object languages
 **+** Still close to the machine | **-** Different behaviors fct(compiler, architectures)
 
+---
+
+## Online resources
+
+### Understand with Wikipedia :
+
+* C (langage) : [C - fr](https://fr.wikipedia.org/wiki/C\_\%28langage\%29) - [C en](https://en.wikipedia.org/wiki/C\_\%28programming\_language\%29)
+* C++ : [C++ - fr](https://fr.wikipedia.org/wiki/C\%2B\%2B)
+* Programmation impérative : [Programmation impérative](https://fr.wikipedia.org/wiki/Programmation\_imp\%C3\%A9rative)
+* GCC : [GNU Compiler Collection](https://fr.wikipedia.org/wiki/GNU_Compiler_Collection)
+* ...
+
+### Courses, tutorials, forums :
+* [c-faq.com](http://www.c-faq.com/)
+* [zentut.com - c-tutorial](http://www.zentut.com/c-tutorial/)
+* [cplusplus.com](http://www.cplusplus.com/)
+* [developpez.com C](http://c.developpez.com) et [C++](http://cpp.developpez.com/)
+* [stackoverflow.com](http://stackoverflow.com)
+* ...
+
+---
+
+###  Tools :
+
+- GNU_Compiler_Collection
+  * Windows: Minimalist GNU for Windows (with GCC) : [MinGW](http://mingw.org/)
+- IDE (Integrated Development Environment) Dédié
+  * OS independent : [codeblocks](http://www.codeblocks.org/)
+  * IDE Linux : [kdevelop](https://www.kdevelop.org/)
+  * IDE Windows : [Visual-Studio](http://www.microsoft.com/france/visual-studio/)
+- IDE Générique
+  * **Visual Studio Code** 
+  * ATOM
+  * ...
+- Debugger:
+  * Build Automation: Make, CMake 
+  * Debugger: GNU Debugger [GDB](https://www.gnu.org/software/gdb/) ([possible UI](https://www.gdbgui.com/))
+  * Automatic test: Answer on [stackoverflow](https://stackoverflow.com/questions/65820/unit-testing-c-code#65845)
+
+---
