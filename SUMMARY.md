@@ -19,13 +19,17 @@
 * [The Game/Main Loop](game-engine/loop.md)
 * [Programming Input Devices](game-engine/input.md)
 * [Resources managment](game-engine/rsc.md)
+* [NetWorld outline](game-engine/networld-outline.md)
+
+## S3-1 - Collaborative Project
+
+
+## S3-1 - vers l'IA dans les jeux (peut-être)
+
+
 * [Collision and simple physics](game-engine/collision.md)
 * [PNJ and AI](game-engine/ai.md)
 * [Challenge Kick-off](game-engine/intro.md)
-
-## S3 - Collaborative Project
-
-
 
 ## S4 - Rendu et Evaluation
 
