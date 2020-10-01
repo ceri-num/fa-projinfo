@@ -50,12 +50,6 @@ Entities are the game element capable of actions. This functionality mainly regr
 - Entities can act over other entities (damaging them for instance).
 
 
-@MainDevelopers:
-
-
-@SecondaryDevelopers:
-
-
 ## Fct.4 - User Interface
 
 
