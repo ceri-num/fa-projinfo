@@ -27,11 +27,15 @@ Leaks can quickly become dramatic, leading your program to be unexpectedly kille
 
 Your best friend here is [valgrind](https://valgrind.org/). It can automatically detect many memory management and threading bugs, and perform great profiling.
 To investigate memory leak, instead of running your program in CLI like
-```monprogramme arg0 arg1```
+```bash
+monprogramme arg0 arg1
+```
 You can invoke your program inside the valgrind context.
-`valgrind --leak-check=yes monprogramme arg0 arg1`
+```bash
+valgrind --leak-check=yes monprogramme arg0 arg1
+```
 
-A word of caution, your program will run slower (~ 20 to 30 times) and will use a lot of memory for the profiling.
+A word of caution though, your program will run slower (~ 20 to 30 times) and will use a lot of memory for the profiling.
 
 ## Shuting Down the Game
 
