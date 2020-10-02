@@ -19,7 +19,9 @@ Include board games like chess, card games, casino games or even computer-based 
 * other things?
 
 ### Breaf peak into the Game Theory
-Parler de l'uv avec Jerem ?
+[Introduction to Game Theory](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_jeux)
+
+Study of games' strategies. Here @ IMT-LD we have the course *Stratégie de Résolution de Problème Complexe par le Jeu* strongly tied to this subject (Module électif L3).
 
 ## Game Engine
 
