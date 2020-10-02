@@ -73,11 +73,15 @@ Nonetheless, huge progress in "the all in one", mostly Unity and UE.
 ### To conclude
 A game engine is a tool suite and a runtime component.
 
-![](resources/runtime_game_engine.png) [1]
+![](resources/runtime_game_engine.png)
 
 In this course, we will focus on **Collision & Physics**, some **2D Rendering** and **Player Mechanisms**, as well as **Artificial Intelligence**
 
 Yay! \o/
 
 
-`[1] Gregory, Jason. "Game Engine Architecture. Ak Peters Series." (2009).`
+#### Source:
+`Gregory, Jason. "Game Engine Architecture. Ak Peters Series." (2009).`
+`Koster, Raph. Theory of fun for game design. " O'Reilly Media, Inc.", (2013).`
+`McShaffry, Mike. "Game coding complete/Mike" MrMike" McShaffry and Rez Graham." (2013).`
+
