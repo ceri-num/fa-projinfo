@@ -90,6 +90,7 @@ while (true)
 
 
 The following schema sum up a simple game loop principle.
+
 ![Game Loop Sum Up](resources/game_loop_sum_up.png)
 
 ## Deallocation
