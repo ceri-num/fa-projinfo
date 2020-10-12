@@ -49,7 +49,7 @@ From this new re-tooling coding paradigm results the separation of:
 * Artificial Intelligence
 * Network
 
-![Ma supper caption](resources/game_engine_reuseability_gamut.png)
+![Game Engine Reuseasbility](resources/game_engine_reuseability_gamut.png)
 
 ### One engine to rule them all?
 Game engine are about trade-off!
