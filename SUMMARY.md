@@ -23,8 +23,9 @@
 
 ## S3-1 - Collaborative Project
 
+* [GIT](project-managment/git.md)
 
-## S3-1 - vers l'IA dans les jeux (peut-être)
+## S3-2 - vers l'IA dans les jeux (peut-être)
 
 
 * [Collision and simple physics](game-engine/collision.md)

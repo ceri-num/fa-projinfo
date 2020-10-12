@@ -49,7 +49,7 @@ From this new re-tooling coding paradigm results the separation of:
 * Artificial Intelligence
 * Network
 
-![](resources/game_engine_reuseability_gamut.png) [1]
+![](resources/game_engine_reuseability_gamut.png)
 
 ### One engine to rule them all?
 Game engine are about trade-off!
@@ -73,7 +73,7 @@ Nonetheless, huge progress in "the all in one", mostly Unity and UE.
 ### To conclude
 A game engine is a tool suite and a runtime component.
 
-![](resources/runtime_game_engine.png) [1]
+![](resources/runtime_game_engine.png)
 
 In this course, we will focus on **Collision & Physics**, some **2D Rendering** and **Player Mechanisms**, as well as **Artificial Intelligence**
 
