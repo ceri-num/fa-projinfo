@@ -90,7 +90,7 @@ while (true)
 
 
 The following schema sum up a simple game loop principle.
-![Game Loop Sum Up][resources/game_loop_sum_up.png]
+![Game Loop Sum Up](resources/game_loop_sum_up.png)
 
 ## Deallocation
 It is at the end of the game loop where all the resources should be deallocated, just before killing the program.
