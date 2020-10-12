@@ -49,7 +49,7 @@ From this new re-tooling coding paradigm results the separation of:
 * Artificial Intelligence
 * Network
 
-![](resources/game_engine_reuseability_gamut.png)
+![Game Engine Reuseasbility](resources/game_engine_reuseability_gamut.png)
 
 ### One engine to rule them all?
 Game engine are about trade-off!
@@ -80,4 +80,8 @@ In this course, we will focus on **Collision & Physics**, some **2D Rendering** 
 Yay! \o/
 
 
-`[1] Gregory, Jason. "Game Engine Architecture. Ak Peters Series." (2009).`
+#### Source:
+`Gregory, Jason. "Game Engine Architecture. Ak Peters Series." (2009).`
+`Koster, Raph. Theory of fun for game design. " O'Reilly Media, Inc.", (2013).`
+`McShaffry, Mike. "Game coding complete/Mike" MrMike" McShaffry and Rez Graham." (2013).`
+
