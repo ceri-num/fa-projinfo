@@ -2,12 +2,13 @@
 
 Sur la base du document éponyme, dans le (repertoire git)[https://gvipers.imt-lille-douai.fr/fatus/networld/blob/master/project-outline.md] du projet.
 
+Ce document regoupe l'ensemble des composants/briques/user-stories développées ou à developper pour completer le projet. Il sert pour le groupe pour visualisé ce qui est fait de ce qui reste à faire, pour identifié qui fait quoi, comme support aux refflexions sur ce que l'on peut ajouter et enfin dans la communication avec l'extérieur (les profs).
+
 Sur chaque fonctionnalité adressée par le groupe, il est demandé d'identifier un ou deux contributeurs principaux (responsables de fait de la bonne réalisation des composants sous-jacents). Tout membre du gourpe doit être identifié comme contributeur principal (mainDeveloper), sur une des fonctionnalités. Tout contributeur qui alimente significativement la fonctionnalité (prise en charge d'un des composants) est identifié comme développeur secondaire.
 
-Pour travailler en binôme, nous vous invitons à vous appuyer sur le pluggin LiveShare de VSC.
+Pour travailler en binôme sur un composant, nous vous invitons à vous utiliser sur le pluggin *LiveShare* de *VSC*.
 
-En effet, toutes les fonctionnalités ne pourront  pas être adressées dans le temps impartie au projet.
-
+Est oui en effet, toutes les fonctionnalités ne pourront pas être adressées dans le temps impartie au projet.
 
 ## Fct.1 - Project Framing.
 
@@ -15,7 +16,7 @@ En effet, toutes les fonctionnalités ne pourront  pas être adressées dans le 
 This functionality cover a framework for the team of developers.
 
 
-- Developers can communicate with others (discord, ...)
+- Developers can communicate with others (discord, ...) - DONE
 - A developer can share a working directory (git, gitlab, ...)
   1. Identification sur gviper (le gitlab de l'école)
   1. Création d'un groupe avec référence à la couleur (exemple: Pink-Panter) 
