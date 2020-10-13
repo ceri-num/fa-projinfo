@@ -2,8 +2,9 @@
 
 Sur la base du document éponyme, dans le (repertoire git)[https://gvipers.imt-lille-douai.fr/fatus/networld/blob/master/project-outline.md] du projet.
 
-
 Sur chaque fonctionnalité adressée par le groupe, il est demandé d'identifier un ou deux contributeurs principaux (responsables de fait de la bonne réalisation des composants sous-jacents). Tout membre du gourpe doit être identifié comme contributeur principal (mainDeveloper), sur une des fonctionnalités. Tout contributeur qui alimente significativement la fonctionnalité (prise en charge d'un des composants) est identifié comme développeur secondaire.
+
+Pour travailler en binôme, nous vous invitons à vous appuyer sur le pluggin LiveShare de VSC.
 
 En effet, toutes les fonctionnalités ne pourront  pas être adressées dans le temps impartie au projet.
 
@@ -16,9 +17,14 @@ This functionality cover a framework for the team of developers.
 
 - Developers can communicate with others (discord, ...)
 - A developer can share a working directory (git, gitlab, ...)
-- Hello World’s programmes can be completed and executed.
+  1. Identification sur gviper (le gitlab de l'école)
+  1. Création d'un groupe avec référence à la couleur (exemple: Pink-Panter) 
+  1. Intégration des menbres
+  1. Création d'un projet comme clone de NetWorld
+  1. Inviter les @profs () et valider avec eux que ça fonctionne.
+- Hello World’s programmes can be compiled and executed.
 - Everyone can refer to documentation.
-- A realize by merging contribution could be generated.
+- A first realize by merging contribution is generated.
 - A solution for Unit Test is operational.
 
 
@@ -72,14 +78,13 @@ This functionality focus on a graphical rendering of the NetWold and to provide 
 
 
 
-## Fct.5 - Game-play
+## Fct.6 - Game-play
 
 
-It is time to define a game objectives and maybe change the name of the project.
+It is time to define game objectives and maybe change the name of the project.
 
 
-## Fct.6 - Programme distributed programme
-
+## Fct.7 - Programme distributed programme
 
 The goal here is to distribute the game process.
 
@@ -90,8 +95,7 @@ The goal here is to distribute the game process.
 - The game is reachable from a web interface.
 
 
-## Fct.7 - Tanks
-
+## Fct.8 - Tanks
 
 Nodes are defined with a collection of tanks  where resources can be placed. (water for instance)
 
