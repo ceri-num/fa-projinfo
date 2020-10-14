@@ -77,9 +77,11 @@ git add -A
 ![Branch and history](resources/branch-and-history.png)
 
 Branch ahead of master, developping a feature, and linear approach.
+
 ![Checkout master](resources/checkout-master.png)
 
 Desynchro and possible merge conflicts
+
 ![Advance master](resources/advance-master.png)
 
 ## GIT Workflow
