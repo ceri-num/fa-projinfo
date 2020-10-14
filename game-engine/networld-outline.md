@@ -1,6 +1,6 @@
 # Contour du projet NetWorld
 
-Sur la base du document éponyme, dans le (repertoire git)[https://gvipers.imt-lille-douai.fr/fatus/networld/blob/master/project-outline.md] du projet.
+Sur la base du document éponyme, dans le [repertoire git](https://gvipers.imt-lille-douai.fr/fatus/networld/blob/master/project-outline.md) du projet.
 
 Ce document regoupe l'ensemble des composants/briques/user-stories développées ou à developper pour completer le projet. Il sert pour le groupe pour visualisé ce qui est fait de ce qui reste à faire, pour identifié qui fait quoi, comme support aux refflexions sur ce que l'on peut ajouter et enfin dans la communication avec l'extérieur (les profs).
 
