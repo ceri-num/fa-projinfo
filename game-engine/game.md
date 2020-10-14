@@ -6,7 +6,7 @@
 
 Include board games like chess, card games, casino games or even computer-based game. 
 
-> A game is an interactive experience that provides the player with an increasingly cgallenging sequence of patterns which he or she learns and eventually masters (Raph Koster, A Theory of Fun for Game Design)
+> A game is an interactive experience that provides the player with an increasingly challenging sequence of patterns which he or she learns and eventually masters (Raph Koster, A Theory of Fun for Game Design)
 
 ### Let's try to sum up important game concept's
 
