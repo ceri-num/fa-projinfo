@@ -22,7 +22,7 @@ This functionality cover a framework for the team of developers.
   1. Création d'un groupe avec référence à la couleur (exemple: Pink-Panter) 
   1. Intégration des menbres
   1. Création d'un projet comme clone de NetWorld
-  1. Inviter les @profs () et valider avec eux que ça fonctionne.
+  1. Inviter les @profs et valider avec eux que ça fonctionne.
 - Hello World’s programmes can be compiled and executed.
 - Everyone can refer to documentation.
 - A first realize by merging contribution is generated.
