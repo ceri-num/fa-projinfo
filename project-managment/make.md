@@ -126,7 +126,7 @@ Exemple minimal:
 project(my_projetc LANGUAGES C)
 cmake_minimum_required(VERSION 3.10)
 
-add_exécutable(prog A.c main.c)
+add_executable(prog A.c main.c)
 ```
 
 *CMake* se charge ensuite de construire les règles de génération de votre projet en fonction de la configuration de la machine (sous forme de *MakeFiles*).
@@ -149,7 +149,7 @@ Enfin, vous avez la possibilité de créer vos propres librairies et de venir le
 
 **À la main**, une librairie dite static n'ait jamais que le regroupement de plusieurs fichiers compilés *'.o'*. archivé dans un fichier *'.a'* avec la commande *'ar'* sous linux par exemple.
 ```bash
-ar rcs A.a A1.o A1.o
+ar rcs libA.a A1.o A1.o
 ```
 
 Une librairie dite *'shared'* - partagé - en *'.so'* sous linux ou *'.dll'* sous Windows sera généré avec le compilateur en applicant les paramètres adéquate:
@@ -158,7 +158,7 @@ Une librairie dite *'shared'* - partagé - en *'.so'* sous linux ou *'.dll'* sou
 gcc -shared A.o B.o -o libA.so
 ```
 
-À la compilation d'un programme , le contenue de la librairie static est ajouté à l'exécutable créer contrairement à une librairie dite 'shared'. 
+À la compilation d'un programme, le contenue de la librairie static est ajouté à l'exécutable créer contrairement à une librairie dite 'shared'. 
 Dans ce second cas, les éléments de la librairie ne sont chargés qu'à l'exécution du programme.
 Pour gcc il faut regarder les paramètres -l et L pour inclure une librairie (ici se serais -lA).
 
