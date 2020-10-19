@@ -21,18 +21,12 @@
 * [Resources managment](game-engine/rsc.md)
 * [NetWorld outline](game-engine/networld-outline.md)
 
-## S3-1 - Collaborative Project
+## S3 - Collaborative Project
 
 * [Versionner avec GIT](project-managment/git.md)
 * [Project Management in online GIT plateform](project-managment/git_project.md)
 * [Automatiser la construction](project-managment/make.md)
 * [Documenter](project-managment/doc.md)
-
-## S3-2 - vers l'IA dans les jeux (peut-être)
-
-* [Collision and simple physics](game-engine/collision.md)
-* [PNJ and AI](game-engine/ai.md)
-* [Challenge Kick-off](game-engine/intro.md)
 
 ## S4 - Rendu et Evaluation
 
