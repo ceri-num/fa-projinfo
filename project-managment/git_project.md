@@ -47,6 +47,8 @@ Issue can be resolved, reopened, commented, and so on. You can point to a specif
 ## Milestone
 Milestone constitutes important step of your project, such as the *proof of concept*, *working example*, *alpha* and the famouse *v1.0*. For each milestones, you can associates issues to it, showing how the its progression goes.
 
+![Overview of milestones](resources/overview_issues.png)
+
 ## Board
 The board in GitLab is a powerful tool, if you use a good labeling system combined to the milestone approach. It allows you to have an interactive task board, directly link to your code and your progression through the issues system.
 
