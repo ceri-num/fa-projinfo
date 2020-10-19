@@ -24,6 +24,7 @@
 ## S3-1 - Collaborative Project
 
 * [Versionner avec GIT](project-managment/git.md)
+* [Project Management in online GIT plateform](project-managment/git_project.md)
 * [Automatiser la construction](project-managment/make.md)
 * [Documenter](project-managment/doc.md)
 
