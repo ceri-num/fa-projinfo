@@ -2,10 +2,8 @@
 
 An excellent introduction to git is available here: [GIT-SCM, The entire Pro Git Book](https://git-scm.com/book/en/v2).
 
-## In brief
+## Version Control In brief
 When working on a project, coding files constantly evolve. Most of the time it consists of features implementation, but sometime their modification introduce regression to the software (*e.g.* bug). Some other time, collaboration is hard due the impossibility to easily share and coordonate the workforce (*e.g.* rewritting some parts of a code written by a colleague). GIT allows your files to exist in several state in --virtualy-- one time, and track their modifications, in addition to make them remotly accessible and provide some control access to them. It show how the files has evolved, and which conflict can potentially arise when modifying a specific file.
-
-## Version Control
 
 ## GIT project
 In GIT, you have two important notions: the local repository (the one in which you currently work) and remote repositories. Remote repositories are versions of the project that are hosted on the internet/network somewhere else than on your machine. Collaborating with others involves managing these remote repositories and pushing and pulling data to and from them when you need to share work. Some of them can be read-only for your, other read-write. But in any case, each system keeps a version database. One major stack of distributed versioning system is to keep the coherence of the software.
