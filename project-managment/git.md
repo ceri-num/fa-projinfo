@@ -133,20 +133,64 @@ You have to chose which one you want to conserve, or replace them both by anothe
 Then, you have to recommit another time (and push if you perform the conflict solving on a local branch).
 
 ## Branching
+Nearly every VCS has some form of branching support. Branching means you diverge from the main line of development and continue to do work without messing with that main line. GIT has a pretty strong and intelligent branching system, preventing to much code duplicata and thus keeping your project relatively small in size.
+
+The main objectif of a branch should be to develop a new feature, algorithm or anything whitout making the main line unusable. Generally speaking, your mainline should only have commit that run, so that you can rollback to them with no issues. On the opposite, your branches are you experimental playground. You create, delete, modify files, resources and co. of your project.
+
+For example, let's say you want a new IHM for your game, to replace the ancient one. One can create a new branch (and jump in it) in the local repository
+
+```bash
+git checkout -b myNewBranch
+```
+
+where no apparent modification can be see compared to the branch where we came from (even **master** is a branch). All the modification made in `myNewBranch`stay in it, and even adding and commiting only concerned it.
+
+You can push a branch to the remote like the master, supposing that you are in the branch:
+```bash
+git push
+```
+
+If the branch does not exist in the remote, you need to create it first, so instead of simply doing a push, the first time, you have to do
+```bash
+git push --set-upstream <YOURREMOTE> <YOURBRANCH>
+```
+(Tips: Upstream branches define the branch tracked on the remote repository by your local remote branch (also called the remote tracking branch) ).
+
+Some example of branches:
+
+### Branch overview
+What happens when invoking the branch command
 
 ![Branch and history](resources/branch-and-history.png)
 
+### Working on a branch
 Branch ahead of master, developping a feature, and linear approach.
 
 ![Checkout master](resources/checkout-master.png)
 
+### Working on a big project
 Desynchro and possible merge conflicts
 
 ![Advance master](resources/advance-master.png)
+
+### Navigation
+To navigate between your branch, use the checkout command
+```bash
+git checkout BRANCH_NAME
+```
+
+By doing so, you change the current branch and adopting its current state. All the future modification will be applied to this very branch.
+
+Note : if you want to change branch while some modifications has not been commited, you will need either to commit them or to stash them.
 
 ## GIT Workflow
 We recommand you to adopt the *Integration Manager Workflow*. It is a common Git workflow, which involves an integration manager — a single person who commits to the 'blessed' repository. A number of developers then clone from that repository, push to their own independent repositories, and ask the integrator to pull in their changes. This fits well with the role repartition of the project.
 
 ![The Integration Manager Workflow](resources/workflow-git.png)
 
+## Question ?
+Try the commands yourself !
+Go to [Explain Git With 3D](https://onlywei.github.io/explain-git-with-d3/#commit) and play with it!
+
 ## Now ! Let's mirror on Gvipers !
+Take 10 minutes to create a new repository on the IMT's GitLab Gvipers.
