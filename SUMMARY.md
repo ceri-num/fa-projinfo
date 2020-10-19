@@ -24,6 +24,7 @@
 ## S3-1 - Collaborative Project
 
 * [GIT](project-managment/git.md)
+* [Project Management in online GIT plateform](project-managment/git_project.md)
 * [MakeFile](project-managment/make.md)
 
 ## S3-2 - vers l'IA dans les jeux (peut-être)
