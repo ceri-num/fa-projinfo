@@ -40,4 +40,3 @@ Ensuite, il s'agit de proposer un code le plus lisible possible, voire une docum
 - Un autre grand quart sur la qualité: Le code, efficacité des structures et des algos mis en oeuvre.
 - 1/4 sur la propreté de la solution: lisibilité du code, utilité des ressources proposée (tutos ...).
 - 1/4 sur l'implication individuelle dans la réalisation du projet.
-
